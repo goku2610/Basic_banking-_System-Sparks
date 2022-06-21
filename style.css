@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item {
+    height: 900px;
+  }
+
+  .btn-success{
+    padding: 25px 30px;
+    margin-right: 10px;
+    
+  
+
+    
+  }
+  .btn-info{
+    padding: 25px 30px;
+    margin-left: 20px;
+    
+  }
+  .container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  
+ 
+  }
+  .mainheader{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -510px;
+    color: #db1616;
+    font-size: 82px;
+  
+
+
+
+
+  }
+  .table-1{color: rgb(255, 255, 255);background-color: rgb(68, 60, 60);}
+.table-2{color: rgb(255, 255, 255);background-color: rgb(47, 44, 44);}
+.full-table{color: red; background-color: #ADEFD1FF;}
+
+
+ 
